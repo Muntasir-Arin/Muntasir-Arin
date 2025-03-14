@@ -6,8 +6,7 @@ Hi, I’m a Computer Science student at BRAC University, passionate about techno
 
 # 📊 GitHub Stats:
 <p align="center">
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muntasir-Arin&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="60%" /> <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muntasir-Arin&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="60%" /> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muntasir-Arin&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="60%" /> 
 </p>
 
 <!--## 
